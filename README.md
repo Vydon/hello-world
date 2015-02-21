@@ -1,2 +1,2 @@
 # hello-world
-$ git log
+# $ git log
